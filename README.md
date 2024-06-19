@@ -1,6 +1,6 @@
 # FENorthwind
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2. You can see my codes at src-app
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2. You can see my codes at src-app.
 
 ## Development server
 
